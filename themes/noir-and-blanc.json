@@ -153,39 +153,39 @@
 						"selection": "#755DEF3D"
 					},
 					{
-						"cursor": "#D60039FF",
-						"background": "#D60039FF",
-						"selection": "#FF31543D"
+						"cursor": "#EF4444FF",
+						"background": "#EF4444FF",
+						"selection": "#EF444480"
 					},
 					{
-						"cursor": "#D97500FF",
-						"background": "#D97500FF",
-						"selection": "#FFD0323D"
+						"cursor": "#F97316FF",
+						"background": "#F97316FF",
+						"selection": "#F9731680"
 					},
 					{
-						"cursor": "#0055D4FF",
-						"background": "#0055D4FF",
-						"selection": "#3379FF3D"
+						"cursor": "#84CC16FF",
+						"background": "#84CC16FF",
+						"selection": "#84CC1680"
 					},
 					{
-						"cursor": "#00A5BFFF",
-						"background": "#00A5BFFF",
-						"selection": "#35DBFF3D"
+						"cursor": "#10B981FF",
+						"background": "#10B981FF",
+						"selection": "#10B98180"
 					},
 					{
-						"cursor": "#00BF36FF",
-						"background": "#00BF36FF",
-						"selection": "#31FF833D"
+						"cursor": "#0EA5E9FF",
+						"background": "#0EA5E9FF",
+						"selection": "#0EA5E980"
 					},
 					{
-						"cursor": "#1A1B22FF",
-						"background": "#1A1B22FF",
-						"selection": "#1A1B223D"
+						"cursor": "#06B6D4FF",
+						"background": "#06B6D4FF",
+						"selection": "#06B6D480"
 					},
 					{
-						"cursor": "#595967FF",
-						"background": "#595967FF",
-						"selection": "#5959673D"
+						"cursor": "#F43F5EFF",
+						"background": "#F43F5EFF",
+						"selection": "#F43F5E80"
 					}
 				],
 				"syntax": {
@@ -537,39 +537,39 @@
 						"selection": "#755DEF3D"
 					},
 					{
-						"cursor": "#FF3154FF",
-						"background": "#FF3154FF",
-						"selection": "#FF00323D"
+						"cursor": "#EF4444FF",
+						"background": "#EF4444FF",
+						"selection": "#EF444480"
 					},
 					{
-						"cursor": "#FFD032FF",
-						"background": "#FFD032FF",
-						"selection": "#FFCA003D"
+						"cursor": "#F97316FF",
+						"background": "#F97316FF",
+						"selection": "#F9731680"
 					},
 					{
-						"cursor": "#3379FFFF",
-						"background": "#3379FFFF",
-						"selection": "#004BFF3D"
+						"cursor": "#84CC16FF",
+						"background": "#84CC16FF",
+						"selection": "#84CC1680"
 					},
 					{
-						"cursor": "#35DBFFFF",
-						"background": "#35DBFFFF",
-						"selection": "#00D2FF3D"
+						"cursor": "#10B981FF",
+						"background": "#10B981FF",
+						"selection": "#10B98180"
 					},
 					{
-						"cursor": "#31FF83FF",
-						"background": "#31FF83FF",
-						"selection": "#00FF683D"
+						"cursor": "#0EA5E9FF",
+						"background": "#0EA5E9FF",
+						"selection": "#0EA5E980"
 					},
 					{
-						"cursor": "#FFFFFFFF",
-						"background": "#FFFFFFFF",
-						"selection": "#FFFFFF3D"
+						"cursor": "#06B6D4FF",
+						"background": "#06B6D4FF",
+						"selection": "#06B6D480"
 					},
 					{
-						"cursor": "#7A7888FF",
-						"background": "#7A7888FF",
-						"selection": "#A8A8B13D"
+						"cursor": "#F43F5EFF",
+						"background": "#F43F5EFF",
+						"selection": "#F43F5E80"
 					}
 				],
 				"syntax": {
